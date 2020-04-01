@@ -1,2 +1,0 @@
-Auspex: Small ice rings in Fobs vs resol.
-	Missing line in Fobs/σFobs vs resol.

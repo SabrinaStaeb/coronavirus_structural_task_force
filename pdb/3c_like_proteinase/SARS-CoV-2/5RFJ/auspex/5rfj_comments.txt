@@ -1,3 +1,0 @@
-Auspex: Missing line in Fobs/σFobs vs resol. 
-
-	Separation of distributions in Fobs/σFobs vs resol. 

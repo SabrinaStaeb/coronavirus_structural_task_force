@@ -1,3 +1,0 @@
-Auspex: Ice rings in Fobs vs resolution
-	Missing line in Fobs/σ(Fobs) vs resolution	
-	
