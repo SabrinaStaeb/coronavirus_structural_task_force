@@ -6,6 +6,7 @@ Visual inspection of AUSPEX plots suggests the following problems:
 
 manhatten 
 missing line
+terracing
 
 If you would like more infos about these problems, go to https://www.auspex.de/pathol/
 

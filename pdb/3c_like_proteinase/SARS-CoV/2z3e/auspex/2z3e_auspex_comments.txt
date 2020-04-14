@@ -8,5 +8,5 @@ ice rings
 
 If you would like more infos about these problems, go to https://www.auspex.de/pathol/
 
-remarks:
+remarks: plot does not begin at zero
 Annotated by Sabrina Stäb.
